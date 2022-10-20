@@ -13,6 +13,7 @@ export class HerramientasElectricasComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
+    console.log("hola")
   }
 
 }
